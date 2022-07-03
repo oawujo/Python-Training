@@ -33,7 +33,7 @@
 
 #your code here
 
-l1 = [2,3,4]
+
 print(l1)
 # # Exercise 2: Remove and add item in a list
 # 
